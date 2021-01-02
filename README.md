@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Khizer Khan 👋
+
+# I'm currently a computer science student, but the ambition is to be a webapplication developer in the future. 
 
 <!--
 **khizerkhan-2316/khizerkhan-2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
