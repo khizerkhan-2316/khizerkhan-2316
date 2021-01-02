@@ -7,7 +7,7 @@
 * 2021 Goals: Master Javascript, make several personal projects and continuing learning.
 * Fun fact: I love to travel new places and code!
 
-![alt text](https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png "VSC")
+![alt text](https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png = 250x "VSC")
 ---
 <!--
 **khizerkhan-2316/khizerkhan-2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
