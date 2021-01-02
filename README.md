@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png" width="25" height= "25" />
+<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png" width="25" height= "25" /> <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/HTML5.png" width="25" height= "25" />
 <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/HTML5.png" width="25" height= "25" />
 <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/CSS3.png" width="25" height= "25" />
 <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/sass.png" width="25" height= "25" />
