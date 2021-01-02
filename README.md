@@ -22,7 +22,7 @@
 ### Latest personal projects: 
 
 ---
-📫 Reach me on <a href="mailto:khizer759@gmail.com"Mail</a>  📫
+📫 Reach me on <a href="mailto:khizer759@gmail.com" Mail /a> 📫
 <!--
 **khizerkhan-2316/khizerkhan-2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
