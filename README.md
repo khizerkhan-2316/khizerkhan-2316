@@ -9,11 +9,11 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png" width="25" height= "25" /> <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/HTML5.png" width="25" height= "25" margin-left="10" />
-<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/CSS3.png" width="25" height= "25"  margin-left="10" />
-<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/sass.png" width="25" height= "25"  margin-left="10" />
-<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/javascript.png" width="25" height= "25"  margin-left="10" />
-<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/1280px-Git-logo.svg.png" height= "25"  margin-left="10"/>
+<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png" width="25" height= "25" /> <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/HTML5.png" width="25" height= "25" padding-left="10" />
+<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/CSS3.png" width="25" height= "25"  padding-left="10" />
+<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/sass.png" width="25" height= "25"  padding-left="10" />
+<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/javascript.png" width="25" height= "25"  padding-left="10" />
+<img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/1280px-Git-logo.svg.png" height= "25"  padding-left="10"/>
 
 ---
 <!--
