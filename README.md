@@ -2,7 +2,7 @@
 
 ## I'm currently a computer science student, who love to code! 
 
-⋅⋅*Hey
+**Hey
 <!--
 **khizerkhan-2316/khizerkhan-2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
