@@ -2,8 +2,10 @@
 
 ## I'm currently a computer science student, who love to code! 
 
-**Hey
-***
+* I'm currently learning Javascript.
+* I'm looking to collaborate with other passionate developers. 
+* 2021 Goals: Master Javascript, make several personal projects and continuing learning.
+* Fun fact: I love to travel new places and code!
 ---
 <!--
 **khizerkhan-2316/khizerkhan-2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
