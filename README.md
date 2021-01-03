@@ -3,7 +3,7 @@
 ## I'm currently a computer science student, who love to code! 
 
 * 📚 I'm currently learning Javascript.
-* 👯 I'm looking to collaborate with other passionate developers. 
+* 👯 I'm looking to collaborate with other passionate developers/students. 
 * 🥅 2021 Goals: Master Javascript, make several personal projects and continuing learning.
 * ⚡ Fun fact: I love to travel new places and code!
 
