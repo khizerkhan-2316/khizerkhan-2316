@@ -14,7 +14,7 @@
 <img align="left"  alt="saas" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/sass.png" width="25" style="max-width:100%;" />
 <img align="left" alt="javascript" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/javascript.png" width="25" style="max-width:100%;"/>
 <img align="left" alt="GIT" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/1280px-Git-logo.svg.png" width="55" style="max-width:100%;" />
-<img align="left" alt="Axios" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/axios-vector-logo.png" width="55" style="max-width:100%;" />
+<img align="left" alt="Axios" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/Axios.jpg" width="55" style="max-width:100%;" />
 <br>
 <br>
 
