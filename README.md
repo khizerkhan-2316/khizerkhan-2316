@@ -1,6 +1,6 @@
 ### Hi there, I'm Khizer Khan 👋
 
-## I'm currently a computer science student, who love to code! 
+## I'm currently a computer science AP student, who love to code! 
 
 * 📚 I'm currently learning Javascript.
 * 👯 I'm looking to collaborate with other passionate developers/students. 
