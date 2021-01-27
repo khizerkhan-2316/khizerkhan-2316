@@ -23,6 +23,7 @@
 
 ### Latest personal projects: 
 
+* https://github.com/khizerkhan-2316/Informaticfinance
 ---
 📫 Reach me on <a href="mailto:khizer759@gmail.com">Mail</a> 📫
 <!--
