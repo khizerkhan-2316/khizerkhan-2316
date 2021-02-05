@@ -4,7 +4,7 @@
 
 * 📚 I'm currently learning Java.
 * 👯 I'm looking to collaborate with other passionate developers/students. 
-* 🥅 2021 Goals: Master Javascript, make several personal projects and continuing learning.
+* 🥅 2021 Goals: Learn Java, make several personal projects and continuing learning.
 * ⚡ Fun fact: I love to travel new places and code!
 
 ### Languages and tools in webdevelopment
