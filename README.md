@@ -7,7 +7,7 @@
 * 🥅 2021 Goals: Learn Java, make several personal projects and continuing learning.
 * ⚡ Fun fact: I love to travel new places and code!
 
-### Languages and tools in webdevelopment
+### Languages and tools in web development
 
 <img align="left" alt="Visual Stuio Code" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png" width="25" style="max-width:100%;" /> <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/HTML5.png" width="25" style="max-width:100%;" align="left"  alt="HTML5" />
 <img align="left" alt="CSS3" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/CSS3.png" width="26" style="max-width:100%;" />
