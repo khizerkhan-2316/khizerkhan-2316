@@ -26,10 +26,10 @@
 
 ### Latest personal projects: 
 
-##### Webdevelopment: 
+##### Web development: 
 * https://github.com/khizerkhan-2316/Informaticfinance
 
-##### Softwaredevelopment: 
+##### Software development: 
 ---
 📫 Reach me on <a href="mailto:khizer759@gmail.com">Mail</a> 📫
 <!--
