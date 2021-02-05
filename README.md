@@ -31,8 +31,8 @@
 
 ##### Software development: 
 ---
-Take a look at my personal portfolio
-Reach me on LinkedIn
+Take a look at my personal portfolio <br>
+Reach me on LinkedIn <br>
 📫 Reach me on <a href="mailto:khizer759@gmail.com">Mail</a> 📫
 <!--
 **khizerkhan-2316/khizerkhan-2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
