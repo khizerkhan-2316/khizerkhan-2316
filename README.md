@@ -29,7 +29,11 @@
 ### Latest personal projects: 
 
 ##### Web development: 
+Link to source code: 
 * https://github.com/khizerkhan-2316/Informaticfinance
+
+Link to page:
+* https://khizerkhan-2316.github.io/Informaticfinance/HTML/main.html
 
 ##### Software development: 
 ---
