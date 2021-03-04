@@ -21,7 +21,7 @@
 
 
 ### Languages and tools in software development
-<img align="left" alt="Eclipse" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/Eclipse.png" width="55" style="max-width:100%;" />
+<img align="left" alt="Eclipse" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/Eclipse.png" width="25" style="max-width:100%;" />
 
 <br>
 <br>
