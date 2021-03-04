@@ -15,6 +15,7 @@
 <img align="left" alt="javascript" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/javascript.png" width="25" style="max-width:100%;"/>
 <img align="left" alt="GIT" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/1280px-Git-logo.svg.png" width="55" style="max-width:100%;" />
 <img align="left" alt="Wordpress" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/wordpress.png" width="55" style="max-width:100%;" />
+<img align="left" alt="Markdown" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/205_Markdown_logo_logos-512.webp" width="55" style="max-width:100%;" />
 <br>
 <br>
 
