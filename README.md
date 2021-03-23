@@ -54,7 +54,7 @@ Link to Zalando clone website:
 ##### Software development: 
 ---
 Take a look at my personal portfolio <br>
-Reach me on LinkedIn <a href="https://www.linkedin.com/in/khizer-khan-b1562b201">Khizer Khan </a>
+Reach me on LinkedIn <a href="https://www.linkedin.com/in/khizer-khan-b1562b201">Khizer Khan </a> <br>
 📫 Reach me on <a href="mailto:khizer759@gmail.com">Mail</a> 📫
 
 <!--
