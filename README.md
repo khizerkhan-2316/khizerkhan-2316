@@ -31,7 +31,15 @@
 
 ##### Web development: 
 Link to source code: 
+
+###### Informatic Finance
 * https://github.com/khizerkhan-2316/Informaticfinance
+
+###### Budget Website
+* https://github.com/khizerkhan-2316/Budget-Application
+
+###### Zalando website clone
+* https://github.com/khizerkhan-2316/Zalando_clone
 
 Link to page:
 * https://khizerkhan-2316.github.io/Informaticfinance/HTML/main.html
