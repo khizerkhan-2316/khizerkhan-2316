@@ -23,7 +23,7 @@
 ### Languages and tools in software development
 <img align="left" alt="Eclipse" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/Eclipse.png" width="25" style="max-width:100%;" />
 <img align="left" alt ="Java" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/Java-Logo.png" width=40" style="max-width:100%;" /> 
-<img align="left" alt ="Java" src=" https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/uml.PNG" width=40" style="max-width:100%;" />
+<img align="left" alt ="Java" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/uml_logo.png" width=40" style="max-width:100%;" />
                                                                                                                                                
 
 <br>
