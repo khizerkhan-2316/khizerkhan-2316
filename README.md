@@ -34,8 +34,8 @@
 ##### Web development: 
 Link to source code: 
 
-###### Informatic Finance
-* https://github.com/khizerkhan-2316/Informaticfinance
+###### Countryinfo -Webapp
+* https://github.com/khizerkhan-2316/rest_webapp
 
 ###### Budget Website
 * https://github.com/khizerkhan-2316/Budget-Application
@@ -45,8 +45,8 @@ Link to source code:
 
 Link to websites:
 
-###### Link to Informatic finance website:
-* https://khizerkhan-2316.github.io/Informaticfinance/HTML/main.html
+###### Link to Countryinfo webapp:
+* https://countryinfo-webapp.netlify.app/
 
 ###### Link to Budget website: 
 * https://khizerkhan-2316.github.io/Budget-Application/
