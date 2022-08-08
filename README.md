@@ -31,33 +31,22 @@
 
 ### Latest personal projects: 
 
-##### Web development: 
+##### Webapplications: 
 Link to source code: 
 
-###### Countryinfo -Webapp
+###### Countryinformation
 * https://github.com/khizerkhan-2316/rest_webapp
 
-###### Budget Website
-* https://github.com/khizerkhan-2316/Budget-Application
-
-###### Zalando website clone
-* https://github.com/khizerkhan-2316/Zalando_clone
+##### Reporting System
+* https://github.com/khizerkhan-2316/Reportingsystem_server
 
 Link to websites:
 
-###### Link to Countryinfo webapp:
+###### Link to Countryinformation webapp:
 * https://countryinfo-webapp.netlify.app/
 
-###### Link to Budget website: 
-* https://khizerkhan-2316.github.io/Budget-Application/
-
-###### Link to Zalando clone website: 
-* https://khizerkhan-2316.github.io/Zalando_clone/
-
-
-##### Software development: 
 ---
-Take a look at my personal portfolio <br>
+Take a look at my personal <a href="https://khizerkhan.netlify.app/">portfolio</a> <br>
 Reach me on LinkedIn <a href="https://www.linkedin.com/in/khizer-khan-b1562b201">Khizer Khan </a> <br>
 📫 Reach me on <a href="mailto:khizer759@gmail.com">Mail</a> 📫
 
