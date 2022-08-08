@@ -2,9 +2,9 @@
 
 ## I'm currently a computer science AP student, who love to code! 
 
-* 📚 I'm currently learning Java.
+* 📚 I'm currently learning C# .NET, Machine Learning with TensorFlow and IOS programming with swift.
 * 👯 I'm looking to collaborate with other passionate developers/students. 
-* 🥅 2021 Goals: Learn Java, make several personal projects and continuing learning.
+* 🥅 2022 Goals: Make personal projects which enhances my skills. 
 * ⚡ Fun fact: I love to travel new places and code!
 
 ### Languages and tools in web development
