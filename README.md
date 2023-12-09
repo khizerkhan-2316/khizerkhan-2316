@@ -1,12 +1,13 @@
 ### Hi there, I'm Khizer Khan 👋
 
-## I'm currently a computer science AP student, who love to code! 
+## I'm currently a Software engineer student, who love to code! 
 
 * 📚 I'm currently learning C# .NET, Machine Learning with TensorFlow and IOS programming with swift.
 * 👯 I'm looking to collaborate with other passionate developers/students. 
-* 🥅 2022 Goals: Make personal projects which enhances my skills. 
+* 🥅 2023 Goals: Make personal projects which enhances my skills. 
 * ⚡ Fun fact: I love to travel new places and code!
 
+<!--
 ### Languages and tools in web development
 
 <img align="left" alt="Visual Stuio Code" src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/visual-studio-code.png" width="25" style="max-width:100%;" /> <img src="https://github.com/khizerkhan-2316/khizerkhan-2316/blob/main/HTML5.png" width="25" style="max-width:100%;" align="left"  alt="HTML5" />
@@ -49,7 +50,7 @@ Link to websites:
 Take a look at my personal <a href="https://khizerkhan.netlify.app/">portfolio</a> <br>
 Reach me on LinkedIn <a href="https://www.linkedin.com/in/khizer-khan-b1562b201">Khizer Khan </a> <br>
 📫 Reach me on <a href="mailto:khizer759@gmail.com">Mail</a> 📫
-
+-->
 <!--
 **khizerkhan-2316/khizerkhan-2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
