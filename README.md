@@ -2,7 +2,7 @@
 
 ## I'm currently a Software engineer student, who love to code! 
 
-* 📚 I'm currently learning C# .NET, Machine Learning with TensorFlow and IOS programming with swift.
+* 📚 I'm currently learning embedded software development and eletric circuits. 
 * 👯 I'm looking to collaborate with other passionate developers/students. 
 * 🥅 2023 Goals: Make personal projects which enhances my skills. 
 * ⚡ Fun fact: I love to travel new places and code!
