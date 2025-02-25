@@ -1,10 +1,10 @@
 ### Hi there, I'm Khizer Khan 👋
 
-## I'm currently a Software engineer student, who love to code! 
+## I'm currently a Software Engineering student, who love to code! 
 
-* 📚 I'm currently learning embedded software development and electric circuits. 
+* 📚 I'm currently learning high level software development. 
 * 👯 I'm looking to collaborate with other passionate developers/students. 
-* 🥅 2023 Goals: Make personal projects which enhances my skills. 
+* 🥅 2025 Goals: Make personal projects which enhances my skills. 
 * ⚡ Fun fact: I love to travel new places and code!
 
 <!--
